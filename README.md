@@ -1,3 +1,7 @@
+This project is for practice, refrenced from different resources. 
+This app is for Covid 19 Tracker live cases worldwide. It has very attractive, informative, web and mobile friendly UI. This app can show cases in map as well. It also give functionality to add more features, for example: News headlines can be added to the side bar, helpline numbers for medical and covid imergences and other related info can also be added in UI.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
